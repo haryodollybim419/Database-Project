@@ -221,67 +221,6 @@ class View:
         name = self.tree.item(self.tree.selection())['text']
         val = self.get_data.view()[int(name)]
         self.message['text'] = '  %s student %s as being updated! '%(name, val[0])
-        
-            
-
-    
-
-        
-            
-    
-        
-        
-        
-        
-                                                             
-##        width=10
-##        height = len(self.get_data.view())
-##        self.lst = []
-##        for i in range(height):
-##            for j in range(width):
-##                self.val = ttk.Entry(self.frame_header, width=10)
-##                self.val.grid(row=i+3, column = j+2)
-##                self.val.insert(0, self.get_data.view()[i][j])
-##                self.lst.append(self.val.get())
-##            self.var = IntVar()
-##            self.checkbutton = ttk.Checkbutton(self.frame_header, variable=self.var)
-##            self.checkbutton.grid(row=i+3, column=2)
-##        self.composite_list = [self.lst[x:x+10] for x in range(0, len(self.lst), 10)]
-##        print(self.composite_list)
-##        ttk.Button(self.frame_header, text='search').grid(row = 3, column = 1)
-##        ttk.Button(self.frame_header, text='add', command=self.get_me).grid(row=4, column=1)
-##
-##    def get_me(self):
-##        if self.checkbutton.state() == ('selected',):
-##            print("hold my beer")
-##
-####    def get_val(self):
-####        update = self.db
-####        get_data_val = Flydatabase(update)
-####        width=10
-####        height = len(self.get_data.view())
-####        n = []
-####        for i in range(height):
-####            for j in range(width):
-####                v = self.val.get()
-####                n.append(v)
-####        print(n)
-####            
-####        for i in range (len(self.composite_list)):
-####            #print(self.composite_list[i])
-####            get_data_val.update(self.composite_list[i])
-######        width=10
-######        height = len(self.get_data.view())
-######        self.lst_2= []
-######        for i in range(height):
-######            for j in range(width):
-######                self.val.delete('0', '10')
-######                self.val.insert(0, 
-######                self.lst_2.append(self.val.get())
-######        print(self.lst_2)
-####
-####
-
 
         
 def main():            
