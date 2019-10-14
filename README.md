@@ -14,7 +14,7 @@ Then run:
  
  ## Registration 
   <p align="left">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/Database-Project/master/images/records.PNG">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/Database-Project/master/images/intro.PNG">
 </p>
 
 ## View data
