@@ -14,10 +14,10 @@ Then run:
  
  ## Registration 
   <p align="left">
-  <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/kivy-game-2.0/master/game_images/welcomescreen.PNG">
+  <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/Database-Project/master/images/records.PNG">
 </p>
 
 ## View data
- <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/kivy-game-2.0/master/game_images/play_game_screen.PNG">
+ <img width="400" height="400" src="https://raw.githubusercontent.com/haryodollybim419/Database-Project/master/images/records.PNG">
 </p>
 
