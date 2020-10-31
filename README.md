@@ -6,7 +6,7 @@ Database GUI for student registration.
 Requirements /Installation
 ------------
 ### For Windows, Ubuntu:
-- Have python installed on your device.
+- Have python installed on your device(python 3.*).
 
 Then run:
  
